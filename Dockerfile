@@ -1,4 +1,4 @@
-FROM docker.unimatic.local:5000/ubuntu:14.04
+FROM ubuntu:14.04
 
 MAINTAINER WangMao <wangmao@tongfangcloud.com>
 
