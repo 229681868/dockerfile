@@ -4,7 +4,7 @@ MAINTAINER WangMao <wangmao@tongfangcloud.com>
 
 RUN apt-get update
 
-RUN apt-get -y install htop iftop iotop sysstat nload memstat tcpdump nmap
+RUN apt-get -y install htop iftop iotop sysstat nload memstat tcpdump 
 
 CMD ["tail","-f","/dev/null"]
 
