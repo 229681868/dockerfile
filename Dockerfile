@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM swr.cn-north-1.myhuaweicloud.com/mbb-1/ubuntu:16.04
 
 MAINTAINER WangMao <wangmao@tongfangcloud.com>
 
